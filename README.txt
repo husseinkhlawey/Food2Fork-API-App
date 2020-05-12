@@ -1,9 +1,11 @@
 node version: 6.11.2
 Test OS: Windows and Linux
 
+PLEASE NOTE: FOOD2FORK API has shut down in 2019.
+
 Installation:
 
-After downloading and extracting the folder, you will need to install the required dependencies via the command "npm install".
+After downloading you will need to install the required dependencies via the command "npm install".
 
 Launching and Testing:
 
