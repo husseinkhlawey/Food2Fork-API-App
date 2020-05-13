@@ -1,7 +1,7 @@
 node version: 6.11.2
 Test OS: Windows and Linux
 
-PLEASE NOTE: FOOD2FORK API has shut down in 2019.
+PLEASE NOTE: FOOD2FORK API was shut down in 2019.
 
 Installation:
 
