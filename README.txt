@@ -3,6 +3,8 @@ Test OS: Windows and Linux
 
 PLEASE NOTE: FOOD2FORK API was shut down in 2019.
 
+Received JSON from search result was parsed to display names and images.
+
 Installation:
 
 After downloading you will need to install the required dependencies via the command "npm install".
